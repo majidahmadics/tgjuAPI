@@ -1,4 +1,4 @@
-# This is an API which scape the currency data from tjgu.org and return the data in csv format
+# This is an API which retrive the currency data from tjgu.org and return the data in csv format
 
 # Import the necessary libraries
 import pandas as pd
